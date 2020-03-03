@@ -1,0 +1,7 @@
+Название проекта: Wikipedia
+СУБД: MySQL (Реляционная)
+Кол-во серверов БД: 20 серверов
+Источники:
+https://www.datacenterknowledge.com/archives/2008/06/24/a-look-inside-wikipedias-infrastructure
+https://stackoverflow.com/questions/4982814/is-mysql-used-over-oracle-in-by-those-who-could-afford-to-buy-oracle
+https://www.quora.com/Why-does-Wikipedia-use-MySQL-as-a-data-store-rather-than-a-NoSQL-database-since-it-scales-and-will-be-economic
